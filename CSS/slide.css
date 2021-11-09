@@ -1,4 +1,4 @@
-* {
+*{
   box-sizing:border-box
   }
 
@@ -15,7 +15,6 @@
 .prev{
   right: 95.8%;
 }
-
 
 .prev, .next {
   cursor: pointer;
